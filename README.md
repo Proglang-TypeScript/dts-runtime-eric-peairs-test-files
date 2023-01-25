@@ -17,4 +17,4 @@ Additionally, the file `create-files.js` has been included as well. This file is
 ```bash
 node create-files.js
 node install.js
-```# dts-runtime-eric-peairs-test-files
+```
