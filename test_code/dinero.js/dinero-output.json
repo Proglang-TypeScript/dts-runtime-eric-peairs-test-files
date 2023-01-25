@@ -1,0 +1,39 @@
+
+{
+    "functionId_1": {
+        "functionId": "functionId_1",
+        "functionName": "Calculator",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__1"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__2"
+            }
+        ],
+        "functionIid": 7577,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_3": {
+        "functionId": "functionId_3",
+        "functionName": "assign",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__2"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    }
+}

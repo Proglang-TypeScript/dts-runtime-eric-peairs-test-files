@@ -1,0 +1,80 @@
+
+{
+    "functionId_1": {
+        "functionId": "functionId_1",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "global",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__1",
+                        "typeof": "object"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "module",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__1",
+                        "typeof": "Module"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__1",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_1",
+                        "followingInteractions": [],
+                        "iid": 17,
+                        "field": "exports",
+                        "returnTypeOf": "object"
+                    },
+                    {
+                        "code": "setField",
+                        "traceId": "trace__1",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_1",
+                        "followingInteractions": [],
+                        "iid": 57,
+                        "field": "exports",
+                        "typeof": "function"
+                    }
+                ]
+            }
+        },
+        "returnTypeOfs": [
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__1"
+            }
+        ],
+        "functionIid": 25505,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_3": {
+        "functionId": "functionId_3",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__2"
+            }
+        ],
+        "functionIid": 25281,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    }
+}

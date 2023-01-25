@@ -1,0 +1,5285 @@
+
+{
+    "functionId_1": {
+        "functionId": "functionId_1",
+        "functionName": "Symbol",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "symbol",
+                "traceId": null
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__5"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__5"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__91"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__91"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__158"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__158"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__166"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__166"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_3": {
+        "functionId": "functionId_3",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__2"
+            }
+        ],
+        "functionIid": 569,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_5": {
+        "functionId": "functionId_5",
+        "functionName": "defineProperty",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": null
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__22"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__99"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_7": {
+        "functionId": "functionId_7",
+        "functionName": "getOwnPropertyDescriptor",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__2"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__26"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__32"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__38"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__43"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__49"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__58"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__74"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__70"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__85"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__95"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__122"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__130"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__148"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__156"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__164"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_9": {
+        "functionId": "functionId_9",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__5"
+            }
+        ],
+        "functionIid": 385,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_11": {
+        "functionId": "functionId_11",
+        "functionName": "hasNativeSymbols",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__96"
+            },
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__166"
+            }
+        ],
+        "functionIid": 329,
+        "requiredModule": "has-symbols",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_13": {
+        "functionId": "functionId_13",
+        "functionName": "hasSymbols",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__7"
+            },
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__97"
+            },
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__167"
+            }
+        ],
+        "functionIid": 1089,
+        "requiredModule": "./shams",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_15": {
+        "functionId": "functionId_15",
+        "functionName": "getPrototypeOf",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_17": {
+        "functionId": "functionId_17",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_19": {
+        "functionId": "functionId_19",
+        "functionName": "Map",
+        "isConstructor": true,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "Map",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_21": {
+        "functionId": "functionId_21",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_23": {
+        "functionId": "functionId_23",
+        "functionName": "Set",
+        "isConstructor": true,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "Set",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_25": {
+        "functionId": "functionId_25",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_27": {
+        "functionId": "functionId_27",
+        "isConstructor": false,
+        "args": {},
+        "returnTypeOfs": [
+            {
+                "typeOf": "object",
+                "traceId": "trace__6"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_29": {
+        "functionId": "functionId_29",
+        "functionName": "call",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__6"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__65"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__135"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_31": {
+        "functionId": "functionId_31",
+        "functionName": "GetIntrinsic",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "name",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__17",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__17",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__17",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__18",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__18",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__22",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__22",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__22",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__23",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__23",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__27",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__27",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__27",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__28",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__28",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__33",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__33",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__33",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__34",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__34",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__39",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__39",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__39",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__40",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__40",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__44",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__44",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__44",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__45",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__45",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__53",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__61",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__61",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__61",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__62",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__62",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__65",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__65",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__65",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__66",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__66",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__70",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__70",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__70",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__71",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__71",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__75",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__75",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__75",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__76",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__76",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__80",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__87",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__87",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__87",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__88",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__88",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__91",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__91",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__91",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__92",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__92",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__99",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__99",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__99",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__100",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__100",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__104",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__104",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__104",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__105",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__105",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__108",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__108",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__108",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__109",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__109",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__112",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__112",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__112",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__113",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__113",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__117",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__125",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__143",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__151",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__159",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "allowMissing",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__17",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__22",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__27",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__33",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__39",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__44",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__53",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__61",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__65",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__70",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__75",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__80",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__87",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__91",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__99",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__104",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__108",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__112",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__117",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__125",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__143",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__151",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__159",
+                        "typeof": "boolean"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__17"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__22"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__27"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__33"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__39"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__44"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__53"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__61"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__65"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__70"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__75"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__80"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__87"
+            },
+            {
+                "typeOf": "symbol",
+                "traceId": "trace__91"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__99"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__104"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__108"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__112"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__117"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__125"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__143"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__151"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__159"
+            }
+        ],
+        "functionIid": 5329,
+        "requiredModule": "../GetIntrinsic",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_33": {
+        "functionId": "functionId_33",
+        "functionName": "stringToPath",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "string",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__18",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__23",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__28",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__34",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__40",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__45",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__54",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__62",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__66",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__71",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__76",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__81",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__88",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__92",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__100",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__105",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__109",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__113",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__118",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__126",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__144",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__152",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__160",
+                        "typeof": "string"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "array",
+                "traceId": "trace__18"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__23"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__28"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__34"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__40"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__45"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__54"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__62"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__66"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__71"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__76"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__81"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__88"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__92"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__100"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__105"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__109"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__113"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__118"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__126"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__144"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__152"
+            },
+            {
+                "typeOf": "array",
+                "traceId": "trace__160"
+            }
+        ],
+        "functionIid": 4209,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_35": {
+        "functionId": "functionId_35",
+        "functionName": "bound call",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "string",
+                "traceId": "trace__20"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__25"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__31"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__37"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__42"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__48"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__57"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__63"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__67"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__73"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__77"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__84"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__89"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__94"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__101"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__106"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__110"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__114"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__121"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__129"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__147"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__155"
+            },
+            {
+                "typeOf": "string",
+                "traceId": "trace__163"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_37": {
+        "functionId": "functionId_37",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__20",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__20",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__20",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__20",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_39": {
+        "functionId": "functionId_39",
+        "functionName": "getBaseIntrinsic",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "name",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__21",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__21",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__26",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__26",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__32",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__32",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__38",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__38",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__43",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__43",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__49",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__49",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__58",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__58",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__64",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__64",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__68",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__68",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__74",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__74",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__78",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__78",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__85",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__85",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__90",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__90",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__95",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__95",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__102",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__102",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__107",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__107",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__111",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__111",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__115",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__115",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__122",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__122",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__130",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__130",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__148",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__148",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__156",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__156",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__164",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__164",
+                        "leftType": "string",
+                        "rightType": "object",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "string",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "left"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "allowMissing",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__21",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__26",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__32",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__38",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__43",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__49",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__58",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__64",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__68",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__74",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__78",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__85",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__90",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__95",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__102",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__107",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__111",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__115",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__122",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__130",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__148",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__156",
+                        "typeof": "boolean"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__164",
+                        "typeof": "boolean"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__21"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__26"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__32"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__38"
+            },
+            {
+                "typeOf": "object",
+                "traceId": "trace__43"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__49"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__58"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__64"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__68"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__74"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__78"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__85"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__90"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__95"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__102"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__107"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__111"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__115"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__122"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__130"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__148"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__156"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__164"
+            }
+        ],
+        "functionIid": 4481,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_41": {
+        "functionId": "functionId_41",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__24",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__25",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__24",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__25",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__24",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__25",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__24",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__25",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_43": {
+        "functionId": "functionId_43",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__29",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__30",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__31",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__29",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__30",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__31",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__29",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__30",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__31",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__29",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__30",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__31",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_45": {
+        "functionId": "functionId_45",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__35",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__36",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__37",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__35",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__36",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__37",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__35",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__36",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__37",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__35",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__36",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__37",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_47": {
+        "functionId": "functionId_47",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__41",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__42",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__41",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__42",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__41",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__42",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__41",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__42",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_49": {
+        "functionId": "functionId_49",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__46",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__47",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__48",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__46",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__47",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__48",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__46",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__47",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__48",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__46",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__47",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__48",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_51": {
+        "functionId": "functionId_51",
+        "functionName": "callBind",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__50"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__60"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__86"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__123"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__131"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__149"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__157"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__165"
+            }
+        ],
+        "functionIid": 329,
+        "requiredModule": "./callBind",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_53": {
+        "functionId": "functionId_53",
+        "functionName": "apply",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": "functionId_31",
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__44"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__53"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__80"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__117"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__125"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__143"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__151"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__159"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_55": {
+        "functionId": "functionId_55",
+        "functionName": "callBoundIntrinsic",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "name",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__52",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__52",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__53",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__53",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__53",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__54",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__54",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__54",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__79",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__79",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__80",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__80",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__80",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__81",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__81",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__81",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__116",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__116",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__117",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__117",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__117",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__118",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__118",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__118",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__124",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__124",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__125",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__125",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__125",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__126",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__126",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__126",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__142",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__142",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__143",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__143",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__143",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__144",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__144",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__144",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__150",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__150",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__151",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__151",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__151",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__152",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__152",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__152",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__158",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__158",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_31",
+                        "traceIdInTargetFunction": "trace__159",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__159",
+                        "isComputed": false,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_31",
+                        "followingInteractions": [
+                            {
+                                "code": "operator",
+                                "traceId": null,
+                                "leftType": "number",
+                                "rightType": "number",
+                                "leftIsNaN": false,
+                                "rightIsNan": false,
+                                "leftToPrimitiveType": "number",
+                                "rightToPrimitiveType": "number",
+                                "leftToPrimitiveIsNaN": false,
+                                "rightToPrimitiveIsNaN": false,
+                                "operator": "===",
+                                "operandForInteraction": "left"
+                            }
+                        ],
+                        "iid": 4577,
+                        "field": "length",
+                        "returnTypeOf": "number"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__159",
+                        "enclosingFunctionId": "functionId_31",
+                        "targetFunctionId": "functionId_33",
+                        "traceIdInTargetFunction": "trace__160",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__160",
+                        "enclosingFunctionId": "functionId_33",
+                        "targetFunctionId": "functionId_35",
+                        "traceIdInTargetFunction": "trace__19",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__160",
+                        "enclosingFunctionId": "functionId_55",
+                        "targetFunctionId": "functionId_59",
+                        "traceIdInTargetFunction": "trace__59",
+                        "argumentIndexInTargetFunction": "0"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "allowMissing",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__52",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__79",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__116",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__124",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__142",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__150",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__158",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__52"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__79"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__116"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__124"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__142"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__150"
+            },
+            {
+                "typeOf": "function",
+                "traceId": "trace__158"
+            }
+        ],
+        "functionIid": 329,
+        "requiredModule": "../helpers/callBound",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_57": {
+        "functionId": "functionId_57",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__55",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__56",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__57",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__55",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__56",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__57",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__55",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__56",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__57",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__55",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__56",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__57",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_59": {
+        "functionId": "functionId_59",
+        "functionName": "bound call",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "number",
+                "traceId": "trace__53"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__80"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__117"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__125"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__143"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__151"
+            },
+            {
+                "typeOf": "number",
+                "traceId": "trace__159"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_61": {
+        "functionId": "functionId_61",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__63",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__63",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__63",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__63",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_63": {
+        "functionId": "functionId_63",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__67",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__67",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__67",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__67",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_65": {
+        "functionId": "functionId_65",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__72",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__73",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__72",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__73",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__72",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__73",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__72",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__73",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_67": {
+        "functionId": "functionId_67",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__77",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__77",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__77",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__77",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_69": {
+        "functionId": "functionId_69",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__82",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__83",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__84",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__82",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__83",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__84",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__82",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__83",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__84",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__82",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__83",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__84",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_71": {
+        "functionId": "functionId_71",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__89",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__89",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__89",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__89",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_73": {
+        "functionId": "functionId_73",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__93",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__94",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__93",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__94",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__93",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__94",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__93",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__94",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_75": {
+        "functionId": "functionId_75",
+        "functionName": "bind",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__96"
+            }
+        ],
+        "requiredModule": "function-bind",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_77": {
+        "functionId": "functionId_77",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__101",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__101",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__101",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__101",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_79": {
+        "functionId": "functionId_79",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__106",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__106",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__106",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__106",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_81": {
+        "functionId": "functionId_81",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__110",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__110",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__110",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__110",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_83": {
+        "functionId": "functionId_83",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__114",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__114",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__114",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__114",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_85": {
+        "functionId": "functionId_85",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__119",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__120",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__121",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__119",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__120",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__121",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__119",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__120",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__121",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__119",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__120",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__121",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_87": {
+        "functionId": "functionId_87",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__127",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__128",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__129",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__127",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__128",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__129",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__127",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__128",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__129",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__127",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__128",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__129",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_89": {
+        "functionId": "functionId_89",
+        "functionName": "isCallable",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "value",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__132",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__133",
+                        "typeof": "function"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__132"
+            },
+            {
+                "typeOf": "boolean",
+                "traceId": "trace__133"
+            }
+        ],
+        "functionIid": 1185,
+        "requiredModule": "es-abstract/2019/IsCallable",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_91": {
+        "functionId": "functionId_91",
+        "functionName": "defineProperties",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "object",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__134",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__139",
+                        "leftType": "string",
+                        "rightType": "function",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "function",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "right"
+                    },
+                    {
+                        "code": "setField",
+                        "traceId": "trace__139",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_99",
+                        "followingInteractions": [],
+                        "iid": 849,
+                        "field": "getPolyfill",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__140",
+                        "leftType": "string",
+                        "rightType": "function",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "function",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "right"
+                    },
+                    {
+                        "code": "setField",
+                        "traceId": "trace__140",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_99",
+                        "followingInteractions": [],
+                        "iid": 849,
+                        "field": "implementation",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "operator",
+                        "traceId": "trace__141",
+                        "leftType": "string",
+                        "rightType": "function",
+                        "leftIsNaN": true,
+                        "rightIsNan": true,
+                        "leftToPrimitiveType": "string",
+                        "rightToPrimitiveType": "function",
+                        "leftToPrimitiveIsNaN": true,
+                        "rightToPrimitiveIsNaN": true,
+                        "operator": "in",
+                        "operandForInteraction": "right"
+                    },
+                    {
+                        "code": "setField",
+                        "traceId": "trace__141",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_99",
+                        "followingInteractions": [],
+                        "iid": 849,
+                        "field": "shim",
+                        "typeof": "function"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "map",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__134",
+                        "typeof": "object"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__134",
+                        "enclosingFunctionId": "functionId_91",
+                        "targetFunctionId": "functionId_93",
+                        "traceIdInTargetFunction": "trace__135",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__134",
+                        "enclosingFunctionId": "functionId_91",
+                        "targetFunctionId": "functionId_97",
+                        "traceIdInTargetFunction": "trace__138",
+                        "argumentIndexInTargetFunction": "0"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__134",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_91",
+                        "followingInteractions": [],
+                        "iid": 1265,
+                        "field": "getPolyfill",
+                        "returnTypeOf": "function"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__134",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_91",
+                        "followingInteractions": [],
+                        "iid": 1265,
+                        "field": "implementation",
+                        "returnTypeOf": "function"
+                    },
+                    {
+                        "code": "getField",
+                        "traceId": "trace__134",
+                        "isComputed": true,
+                        "isOpAssign": false,
+                        "enclosingFunctionId": "functionId_91",
+                        "followingInteractions": [],
+                        "iid": 1265,
+                        "field": "shim",
+                        "returnTypeOf": "function"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__134"
+            }
+        ],
+        "functionIid": 1329,
+        "requiredModule": "define-properties",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_93": {
+        "functionId": "functionId_93",
+        "functionName": "keys",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "o",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__135",
+                        "typeof": "object"
+                    },
+                    {
+                        "code": "usedAsArgument",
+                        "traceId": "trace__135",
+                        "enclosingFunctionId": "functionId_93",
+                        "targetFunctionId": "functionId_95",
+                        "traceIdInTargetFunction": "trace__136",
+                        "argumentIndexInTargetFunction": "0"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "array",
+                "traceId": "trace__135"
+            }
+        ],
+        "functionIid": 185,
+        "requiredModule": "object-keys",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_95": {
+        "functionId": "functionId_95",
+        "functionName": "keys",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "array",
+                "traceId": "trace__133"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_97": {
+        "functionId": "functionId_97",
+        "functionName": "getOwnPropertySymbols",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "array",
+                "traceId": "trace__135"
+            }
+        ],
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_99": {
+        "functionId": "functionId_99",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "object",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__139",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__140",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__141",
+                        "typeof": "function"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "name",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__139",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__140",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__141",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "value",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__139",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__140",
+                        "typeof": "function"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__141",
+                        "typeof": "function"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "predicate",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__139",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__140",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__141",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__139"
+            },
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__140"
+            },
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__141"
+            }
+        ],
+        "functionIid": 865,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_101": {
+        "functionId": "functionId_101",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__145",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__146",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__147",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__145",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__146",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__147",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__145",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__146",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__147",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__145",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__146",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__147",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_103": {
+        "functionId": "functionId_103",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__153",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__154",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__155",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__153",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__154",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__155",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__153",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__154",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__155",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__153",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__154",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__155",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_105": {
+        "functionId": "functionId_105",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "match",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__161",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__162",
+                        "typeof": "string"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__163",
+                        "typeof": "string"
+                    }
+                ]
+            },
+            "1": {
+                "argumentIndex": 1,
+                "argumentName": "number",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__161",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__162",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__163",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "2": {
+                "argumentIndex": 2,
+                "argumentName": "quote",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__161",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__162",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__163",
+                        "typeof": "undefined"
+                    }
+                ]
+            },
+            "3": {
+                "argumentIndex": 3,
+                "argumentName": "subString",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__161",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__162",
+                        "typeof": "undefined"
+                    },
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__163",
+                        "typeof": "undefined"
+                    }
+                ]
+            }
+        },
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [],
+        "functionIid": 4113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_107": {
+        "functionId": "functionId_107",
+        "functionName": "shimUtilPromisify",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__168"
+            }
+        ],
+        "functionIid": 273,
+        "requiredModule": "util.promisify/shim",
+        "isExported": true,
+        "constructedBy": ""
+    },
+    "functionId_109": {
+        "functionId": "functionId_109",
+        "functionName": "getPolyfill",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": -1,
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__169"
+            }
+        ],
+        "functionIid": 193,
+        "requiredModule": "./polyfill",
+        "isExported": true,
+        "constructedBy": ""
+    }
+}

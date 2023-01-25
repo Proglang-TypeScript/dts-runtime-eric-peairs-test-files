@@ -1,0 +1,48 @@
+
+{
+    "functionId_1": {
+        "functionId": "functionId_1",
+        "functionName": "",
+        "isConstructor": false,
+        "args": {
+            "0": {
+                "argumentIndex": 0,
+                "argumentName": "GLOBAL",
+                "interactions": [
+                    {
+                        "code": "inputValue",
+                        "traceId": "trace__1",
+                        "typeof": "object"
+                    }
+                ]
+            }
+        },
+        "returnTypeOfs": [
+            {
+                "typeOf": "undefined",
+                "traceId": "trace__1"
+            }
+        ],
+        "functionIid": 18113,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    },
+    "functionId_3": {
+        "functionId": "functionId_3",
+        "functionName": "_Big_",
+        "isConstructor": false,
+        "args": {},
+        "declarationEnclosingFunctionId": "functionId_1",
+        "returnTypeOfs": [
+            {
+                "typeOf": "function",
+                "traceId": "trace__2"
+            }
+        ],
+        "functionIid": 969,
+        "requiredModule": "",
+        "isExported": false,
+        "constructedBy": ""
+    }
+}
