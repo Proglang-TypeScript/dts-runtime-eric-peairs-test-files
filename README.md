@@ -1,6 +1,6 @@
 ## Usage
 
-This directory is a companion directory to [dts-runtime] (https://github.com/Proglang-TypeScript/run-time-information-gathering) and should be saved under the same parent directory as dts-runtime. To set up this directory, run the command one of the two following commands.
+This directory is a companion directory to [dts-runtime](https://github.com/Proglang-TypeScript/run-time-information-gathering) and should be saved under the same parent directory as dts-runtime. To set up this directory, run the command one of the two following commands.
 
 ```bash
 node install.js
